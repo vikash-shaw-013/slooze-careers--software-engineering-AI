@@ -161,8 +161,4 @@ The app will open at **http://localhost:8501**.
 - **Decision**: For long documents, select chunks from the beginning, middle, and end rather than sending the entire text.
 - **Trade-off**: Avoids token-limit issues and reduces cost, but may miss isolated details. For most documents, the beginning/middle/end heuristic captures the narrative arc well.
 
----
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
